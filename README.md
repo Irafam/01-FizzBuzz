@@ -20,8 +20,9 @@ Here is one [overview] (http://rogerdudler.github.io/git-guide/)
 Here is a fun video using Tinker Toys called [Git for Ages 4 and up](https://youtu.be/1ffBJ4sVUb4)
 
 2. Terminal time and Git
+
 *copy the url of this repo from the git site
-![](images/2016-07-27 19:40:09 Git FizzBuzz URL.png?raw=true)
+![](./images/GitFizzBuzzURL.png?raw=true)
 
 On your terminal try to type the following:
 		<git clone >
