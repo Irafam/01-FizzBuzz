@@ -16,7 +16,8 @@ For numbers which are multiples of both three and five print “FizzBuzz”.
 
 
 ## Homework:
-1. Learn the basics of Git commands
+
+1. Learn the basics of Git commands<br>
 
 	Here is one [overview] (http://rogerdudler.github.io/git-guide/)
 	Here is a fun video using Tinker Toys called [Git for Ages 4 and up](https://youtu.be/1ffBJ4sVUb4)
