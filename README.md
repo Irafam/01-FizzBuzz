@@ -1,7 +1,7 @@
 # First Git Experience: FIZZ BUZZ!
 
 
-## Instructions
+## Coding Instructions
 The "Fizz-Buzz test" is an interview question designed to help filter out the 99.5% of programming job candidates who can't seem to program their way out of a wet paper bag. The text of the programming assignment is as follows:
 
 
@@ -14,6 +14,7 @@ For the multiples of five print “Buzz”.
 For numbers which are multiples of both three and five print “FizzBuzz”.
 
 
+
 ## Homework:
 1. Learn the basics of Git commands
 Here is one [overview] (http://rogerdudler.github.io/git-guide/)
@@ -21,12 +22,13 @@ Here is a fun video using Tinker Toys called [Git for Ages 4 and up](https://you
 
 2. Terminal time and Git
 
-*copy the url of this repo from the git site
+*copy the url of this repo from the git site. The url is in the image below:
 ![](./images/GitFizzBuzzURL.png?raw=true)
 
 On your terminal try to type the following:
 		<git clone >
 
+[Google]: http://google.com/
 
 ####Testing blockquotes below
 > This is a blockquote with two paragraphs. Lorem ipsum dolor sit amet,
