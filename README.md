@@ -30,9 +30,9 @@ For numbers which are multiples of both three and five print “FizzBuzz”.
 	The url is in the image below:
 ![](./images/GitFizzBuzzURL.png?raw=true)
 
-<p>On your terminal try to type the following:
+<p>On your terminal try to type the following (remember to paste the link you just copied):
 		
-		`git clone 
+		git clone https://github.com/Irafam/01-FizzBuzz.git
 
 
 
