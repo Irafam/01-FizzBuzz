@@ -35,12 +35,19 @@ For numbers which are multiples of both three and five print “FizzBuzz”.
 		git clone https://github.com/Irafam/01-FizzBuzz.git
 
 
+	Now that you have cloned the repo into your directory, you can work on your FizzBuzz assignment
 
-####Testing blockquotes below
-> This is a blockquote with two paragraphs. Lorem ipsum dolor sit amet,
-> consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus.
-> Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.
-> 
-> Donec sit amet nisl. Aliquam semper ipsum sit amet velit. Suspendisse
-> id sem consectetuer libero luctus adipiscing.
+3. When you have any changes, you should 
+	
+	ADD 
+		git add *
 
+	and
+
+	COMMIT
+		git commit -m 'some relevant message'
+
+	and 
+
+	PUSH
+		git push origin to `your branch
