@@ -19,18 +19,21 @@ For numbers which are multiples of both three and five print “FizzBuzz”.
 
 1. Learn the basics of Git commands<br>
 
-	Here is one [overview] (http://rogerdudler.github.io/git-guide/)
-	Here is a fun video using Tinker Toys called [Git for Ages 4 and up](https://youtu.be/1ffBJ4sVUb4)
+	Here is one [overview] (http://rogerdudler.github.io/git-guide/)<br>
 
-2. Terminal time and Git
+	Here is a fun video using Tinker Toys called [Git for Ages 4 and up](https://youtu.be/1ffBJ4sVUb4)<br>
 
-	copy the url of this repo from the git site. 
+2. Terminal time and Git<br>
+
+	copy the url of this repo from the git site. <br>
 
 	The url is in the image below:
 ![](./images/GitFizzBuzzURL.png?raw=true)
 
 <p>On your terminal try to type the following:
-		<code> git clone <\code>
+		
+		`git clone 
+
 
 
 ####Testing blockquotes below
